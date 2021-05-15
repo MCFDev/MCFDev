@@ -13,4 +13,3 @@ enjoy them ig
 
 
 old github acc: MCFPT
-parsing json brings me real physical pain.
