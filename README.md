@@ -1,8 +1,4 @@
-im a person online yes
 
-i do stupid/useless code stuff for funnies
-
-enjoy them ig 
 
 
 ![MCFPT's Github Stats](https://github-readme-stats.vercel.app/api?username=MCFDev&count_private=true&show_icons=true&theme=radical)
@@ -12,4 +8,4 @@ enjoy them ig
 
 
 
-old github acc: MCFPT
+
