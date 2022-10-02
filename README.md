@@ -6,6 +6,6 @@
 <br>
 ![Profile View Counter](https://komarev.com/ghpvc/?username=MCFDev&color=blueviolet&style=flat-square)
 
-
+<p> <a href="https://info.flagcounter.com/o3CQ"><img src="https://s01.flagcounter.com/count2/o3CQ/bg_FFFFFF/txt_000000/border_CCCCCC/columns_8/maxflags_250/viewers_0/labels_0/pageviews_1/flags_0/percent_0/" alt="Flag Counter" border="0"></a> </p>
 
 
