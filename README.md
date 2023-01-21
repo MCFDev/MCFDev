@@ -10,6 +10,6 @@
 
 <br> Also on HTB
 <br>
-<script src="https://www.hackthebox.eu/badge/233908" alt="One of your extensions broke this (likely NoScript  or PrivacyBadger"></script>
+<img src="https://www.hackthebox.com/badge/image/233908" alt="One of your extensions broke this (likely NoScript  or PrivacyBadger">
 
 
