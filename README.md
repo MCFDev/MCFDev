@@ -11,5 +11,5 @@
 <br> Also on HTB & CD
 <br>
 <a href="https://app.hackthebox.com/profile/233908" ><img src="https://www.hackthebox.com/badge/image/233908"  alt="One of your extensions broke this (likely NoScript  or PrivacyBadger">
-<script src="https://cyberdefenders.org/p/Th0nkPT/badge"></script>
+<img src="https://cyberdefenders-storage.s3.me-central-1.amazonaws.com/profile-badges/Th0nkPT.png" width="300" />
 
